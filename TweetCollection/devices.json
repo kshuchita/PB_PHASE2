@@ -1,9 +1,0 @@
-[
-
-	{"device":"iphone","cnt":31667},
-	{"device":"android","cnt":24925},
-	{"device":"web","cnt":17904},
-	{"device":"ipad","cnt":2032},
-	{"device":"windowsphone","cnt":751},
-	{"device":"blackberry","cnt":382}
-]
